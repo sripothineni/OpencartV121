@@ -1,0 +1,52 @@
+11:58:27.293 [main] INFO  testCases.TC001_AccountRegistrationTest - ********************Finished testcase TC001_AccountRegistrationTest********************
+11:58:39.345 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Sreenath\September\OpencartV121\grouping.xml"
+11:58:39.584 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Sreenath\September\OpencartV121\grouping.xml
+
+11:58:44.161 [main] INFO  testCases.TC002_LoginTest - ***************** Starting testcase TC002_LoginTest ******************
+11:58:46.050 [main] INFO  testCases.TC002_LoginTest - ***************** Starting testcase TC002_LoginTest ******************
+11:58:50.405 [main] INFO  testCases.TC001_AccountRegistrationTest - ********************Starting testcase TC001_AccountRegistrationTest********************
+11:58:50.486 [main] INFO  testCases.TC001_AccountRegistrationTest - >>Clicked on MyAccount link
+11:58:51.203 [main] INFO  testCases.TC001_AccountRegistrationTest - >>Clicked on Reigister
+11:58:52.750 [main] INFO  testCases.TC001_AccountRegistrationTest - >>Validating expected message..
+11:58:52.789 [main] INFO  testCases.TC001_AccountRegistrationTest - >>Test Passed..
+11:58:52.789 [main] INFO  testCases.TC001_AccountRegistrationTest - ********************Finished testcase TC001_AccountRegistrationTest********************
+15:16:35.803 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Sreenath\September\OpencartV121\grid-docker.xml"
+15:17:01.437 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Sreenath\September\OpencartV121\grid-docker.xml"
+15:17:01.854 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Sreenath\September\OpencartV121\grid-docker.xml
+
+15:17:10.086 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ********************Starting testcase TC001_AccountRegistrationTest********************
+15:17:10.086 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ********************Starting testcase TC001_AccountRegistrationTest********************
+15:17:10.434 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - >>Clicked on MyAccount link
+15:17:10.652 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - >>Clicked on MyAccount link
+15:17:10.701 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed...
+15:17:10.703 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test failed...
+15:17:17.654 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - ***************** Starting testcase TC002_LoginTest ******************
+15:17:19.657 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - ***************** Starting testcase TC002_LoginTest ******************
+15:17:54.227 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Sreenath\September\OpencartV121\grid-docker.xml"
+15:17:54.642 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Sreenath\September\OpencartV121\grid-docker.xml
+
+15:22:43.704 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Sreenath\September\OpencartV121\grid-docker.xml"
+15:22:44.037 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Sreenath\September\OpencartV121\grid-docker.xml
+
+15:24:02.730 [main] INFO  testCases.TC001_AccountRegistrationTest - ********************Starting testcase TC001_AccountRegistrationTest********************
+15:24:03.038 [main] INFO  testCases.TC001_AccountRegistrationTest - >>Clicked on MyAccount link
+15:24:03.999 [main] INFO  testCases.TC001_AccountRegistrationTest - >>Clicked on Reigister
+15:24:05.789 [main] INFO  testCases.TC001_AccountRegistrationTest - >>Validating expected message..
+15:24:05.850 [main] INFO  testCases.TC001_AccountRegistrationTest - >>Test Passed..
+15:24:05.853 [main] INFO  testCases.TC001_AccountRegistrationTest - ********************Finished testcase TC001_AccountRegistrationTest********************
+15:24:12.514 [main] INFO  testCases.TC002_LoginTest - ***************** Starting testcase TC002_LoginTest ******************
+15:24:14.595 [main] INFO  testCases.TC002_LoginTest - ***************** Starting testcase TC002_LoginTest ******************
+15:24:41.115 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Sreenath\September\OpencartV121\grid-docker.xml"
+15:24:41.517 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Sreenath\September\OpencartV121\grid-docker.xml
+
+15:24:48.321 [main] INFO  testCases.TC001_AccountRegistrationTest - ********************Starting testcase TC001_AccountRegistrationTest********************
+15:24:48.629 [main] INFO  testCases.TC001_AccountRegistrationTest - >>Clicked on MyAccount link
+15:24:49.566 [main] INFO  testCases.TC001_AccountRegistrationTest - >>Clicked on Reigister
+15:24:51.275 [main] INFO  testCases.TC001_AccountRegistrationTest - >>Validating expected message..
+15:24:51.338 [main] INFO  testCases.TC001_AccountRegistrationTest - >>Test Passed..
+15:24:51.342 [main] INFO  testCases.TC001_AccountRegistrationTest - ********************Finished testcase TC001_AccountRegistrationTest********************
