@@ -1,0 +1,54 @@
+23:20:32.088 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:20:32.094 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:20:32.094 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:20:32.094 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:20:32.096 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:20:32.096 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:20:32.096 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:20:32.097 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:20:32.099 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:20:32.099 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:20:32.099 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:20:32.099 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:20:32.100 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:20:32.100 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:20:32.106 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:20:32.106 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:20:32.106 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:20:32.106 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:20:32.114 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Revathi Kundurthi\AppData\Local\Temp\testng-eclipse-112444313\testng-customsuite.xml
+
+23:20:32.130 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+23:20:32.267 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@1fc0053e: 57 ms
+23:20:32.280 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@55f3c410: 13 ms
+23:20:32.292 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@523424b5: 12 ms
+23:20:32.299 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1601e47: 7 ms
+23:20:32.305 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4a9cc6cb: 5 ms
+23:20:32.305 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5990e6c5: 0 ms
+23:20:48.330 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Sreenath\September\OpencartV121\grouping.xml"
+23:20:48.618 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Sreenath\September\OpencartV121\grouping.xml
+
+23:20:53.519 [main] INFO  testCases.TC004_ProductCart_E2ETest - ***************** Starting testcase TC004_ProductCart_E2ETest ******************
+23:22:06.977 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Sreenath\September\OpencartV121\grouping.xml"
+23:22:07.209 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Sreenath\September\OpencartV121\grouping.xml
+
+23:22:11.943 [main] INFO  testCases.TC004_ProductCart_E2ETest - ***************** Starting testcase TC004_ProductCart_E2ETest ******************
+23:23:45.672 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Sreenath\September\OpencartV121\grouping.xml"
+23:23:45.913 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Sreenath\September\OpencartV121\grouping.xml
+
+23:23:50.710 [main] INFO  testCases.TC004_ProductCart_E2ETest - ***************** Starting testcase TC004_ProductCart_E2ETest ******************
+23:26:30.679 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Sreenath\September\OpencartV121\grouping.xml"
+23:26:30.923 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Sreenath\September\OpencartV121\grouping.xml
+
+23:26:35.636 [main] INFO  testCases.TC004_ProductCart_E2ETest - ***************** Starting testcase TC004_ProductCart_E2ETest ******************
+23:32:02.493 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Sreenath\September\OpencartV121\grouping.xml"
+23:32:02.723 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Sreenath\September\OpencartV121\grouping.xml
+
+23:32:07.705 [main] INFO  testCases.TC004_ProductCart_E2ETest - ***************** Starting testcase TC004_ProductCart_E2ETest ******************
+23:40:18.859 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Sreenath\September\OpencartV121\grouping.xml"

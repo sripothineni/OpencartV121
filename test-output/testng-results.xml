@@ -1,85 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-26T15:32:49 CEST" name="Master Suite" finished-at="2024-09-26T15:33:24 CEST" duration-ms="35298">
+  <suite started-at="2024-10-05T23:41:18 CEST" name="Master Suite" finished-at="2024-10-05T23:41:30 CEST" duration-ms="11245">
     <groups>
       <group name="Master">
-        <method signature="TC001_AccountRegistrationTest.verify_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@4678a2eb]" name="verify_account_registration" class="testCases.TC001_AccountRegistrationTest"/>
-        <method signature="TC002_LoginTest.verify_login()[pri:0, instance:testCases.TC002_LoginTest@a4b2d8f]" name="verify_login" class="testCases.TC002_LoginTest"/>
-        <method signature="TC001_AccountRegistrationTest.verify_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@239b0f9d]" name="verify_account_registration" class="testCases.TC001_AccountRegistrationTest"/>
-        <method signature="TC002_LoginTest.verify_login()[pri:0, instance:testCases.TC002_LoginTest@619bfe29]" name="verify_login" class="testCases.TC002_LoginTest"/>
+        <method signature="TC004_ProductCart_E2ETest.validateAddingProductToCart()[pri:0, instance:testCases.TC004_ProductCart_E2ETest@30d4b288]" name="validateAddingProductToCart" class="testCases.TC004_ProductCart_E2ETest"/>
       </group> <!-- Master -->
-      <group name="Sanity">
-        <method signature="TC002_LoginTest.verify_login()[pri:0, instance:testCases.TC002_LoginTest@a4b2d8f]" name="verify_login" class="testCases.TC002_LoginTest"/>
-        <method signature="TC002_LoginTest.verify_login()[pri:0, instance:testCases.TC002_LoginTest@619bfe29]" name="verify_login" class="testCases.TC002_LoginTest"/>
-      </group> <!-- Sanity -->
-      <group name="Regression">
-        <method signature="TC001_AccountRegistrationTest.verify_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@4678a2eb]" name="verify_account_registration" class="testCases.TC001_AccountRegistrationTest"/>
-        <method signature="TC001_AccountRegistrationTest.verify_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@239b0f9d]" name="verify_account_registration" class="testCases.TC001_AccountRegistrationTest"/>
-      </group> <!-- Regression -->
+      <group name="Test">
+        <method signature="TC004_ProductCart_E2ETest.validateAddingProductToCart()[pri:0, instance:testCases.TC004_ProductCart_E2ETest@30d4b288]" name="validateAddingProductToCart" class="testCases.TC004_ProductCart_E2ETest"/>
+      </group> <!-- Test -->
     </groups>
-    <test started-at="2024-09-26T15:32:49 CEST" name="Firefox Tests" finished-at="2024-09-26T15:33:09 CEST" duration-ms="20006">
-      <class name="testCases.TC002_LoginTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_LoginTest@a4b2d8f]" started-at="2024-09-26T15:33:01 CEST" name="setup" finished-at="2024-09-26T15:33:06 CEST" duration-ms="5350" status="PASS">
+    <test started-at="2024-10-05T23:41:18 CEST" name="Test" finished-at="2024-10-05T23:41:30 CEST" duration-ms="11245">
+      <class name="testCases.TC004_ProductCart_E2ETest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC004_ProductCart_E2ETest@30d4b288]" started-at="2024-10-05T23:41:19 CEST" name="setup" finished-at="2024-10-05T23:41:23 CEST" duration-ms="4838" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[Linux]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[firefox]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="verify_login()[pri:0, instance:testCases.TC002_LoginTest@a4b2d8f]" started-at="2024-09-26T15:33:06 CEST" name="verify_login" finished-at="2024-09-26T15:33:08 CEST" duration-ms="2120" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verify_login -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_LoginTest@a4b2d8f]" started-at="2024-09-26T15:33:08 CEST" name="tearDown" finished-at="2024-09-26T15:33:09 CEST" duration-ms="945" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC002_LoginTest -->
-      <class name="testCases.TC001_AccountRegistrationTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_AccountRegistrationTest@4678a2eb]" started-at="2024-09-26T15:32:49 CEST" name="setup" finished-at="2024-09-26T15:32:56 CEST" duration-ms="6995" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Linux]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[firefox]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="verify_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@4678a2eb]" started-at="2024-09-26T15:32:56 CEST" name="verify_account_registration" finished-at="2024-09-26T15:33:00 CEST" duration-ms="3316" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verify_account_registration -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_AccountRegistrationTest@4678a2eb]" started-at="2024-09-26T15:33:00 CEST" name="tearDown" finished-at="2024-09-26T15:33:01 CEST" duration-ms="983" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC001_AccountRegistrationTest -->
-    </test> <!-- Firefox Tests -->
-    <test started-at="2024-09-26T15:33:10 CEST" name="Chrome Tests" finished-at="2024-09-26T15:33:24 CEST" duration-ms="14199">
-      <class name="testCases.TC002_LoginTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_LoginTest@619bfe29]" started-at="2024-09-26T15:33:18 CEST" name="setup" finished-at="2024-09-26T15:33:22 CEST" duration-ms="3970" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Linux]]>
+                <![CDATA[windows]]>
               </value>
             </param>
             <param index="1">
@@ -91,41 +29,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verify_login()[pri:0, instance:testCases.TC002_LoginTest@619bfe29]" started-at="2024-09-26T15:33:22 CEST" name="verify_login" finished-at="2024-09-26T15:33:24 CEST" duration-ms="2310" status="PASS">
+        <test-method signature="validateAddingProductToCart()[pri:0, instance:testCases.TC004_ProductCart_E2ETest@30d4b288]" started-at="2024-10-05T23:41:23 CEST" name="validateAddingProductToCart" finished-at="2024-10-05T23:41:29 CEST" duration-ms="5994" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verify_login -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_LoginTest@619bfe29]" started-at="2024-09-26T15:33:24 CEST" name="tearDown" finished-at="2024-09-26T15:33:24 CEST" duration-ms="85" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC002_LoginTest -->
-      <class name="testCases.TC001_AccountRegistrationTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_AccountRegistrationTest@239b0f9d]" started-at="2024-09-26T15:33:10 CEST" name="setup" finished-at="2024-09-26T15:33:14 CEST" duration-ms="3939" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Linux]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="verify_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@239b0f9d]" started-at="2024-09-26T15:33:14 CEST" name="verify_account_registration" finished-at="2024-09-26T15:33:18 CEST" duration-ms="3719" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verify_account_registration -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_AccountRegistrationTest@239b0f9d]" started-at="2024-09-26T15:33:18 CEST" name="tearDown" finished-at="2024-09-26T15:33:18 CEST" duration-ms="165" status="PASS">
+        </test-method> <!-- validateAddingProductToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC004_ProductCart_E2ETest@30d4b288]" started-at="2024-10-05T23:41:29 CEST" name="tearDown" finished-at="2024-10-05T23:41:30 CEST" duration-ms="229" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC001_AccountRegistrationTest -->
-    </test> <!-- Chrome Tests -->
+      </class> <!-- testCases.TC004_ProductCart_E2ETest -->
+    </test> <!-- Test -->
   </suite> <!-- Master Suite -->
 </testng-results>
